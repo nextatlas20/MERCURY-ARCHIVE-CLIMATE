@@ -1,0 +1,5 @@
+case_id,case_name,valid_readings,exceptional_readings,temp_alerts,humidity_alerts,vent_alerts,status
+CASE-A1,Amber Gallery,2,1,1,1,1,CRITICAL
+CASE-B2,Bronze Hall,1,1,1,0,0,WATCH
+CASE-C3,Celadon Room,2,2,1,0,1,WATCH
+CASE-D4,Delft Cabinet,0,0,0,0,0,CLEAR
