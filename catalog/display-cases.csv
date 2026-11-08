@@ -1,0 +1,5 @@
+case_id,case_name,max_temperature_c,max_humidity_pct,requires_closed_vent
+CASE-A1,Amber Gallery,21.5,48,YES
+CASE-B2,Bronze Hall,19.0,55,NO
+CASE-C3,Celadon Room,22.0,45,YES
+CASE-D4,Delft Cabinet,20.0,40,NO
